@@ -10,23 +10,23 @@ Sanity is a headless Content Management System (CMS), It is a composable content
 
 To Create a Website in Next JS using Headless CMS Sanity, TailwindCSS, TypeScript and Drizzle Postgre SQl we must have our environment setup ready. If we are going to create Next Js application first time then we must follow these steps:
 
-Step-1: Install Integrated Development Environment (IDE) Visual Studio Code (VS Code) using link:  https://code.visualstudio.com/
+✔ Step-1: Install Integrated Development Environment (IDE) Visual Studio Code (VS Code) using link:  https://code.visualstudio.com/
 
-Step-2: Install Node.js (Latest Version) from https://nodejs.org/en/download/current/ 
+✔ Step-2: Install Node.js (Latest Version) from https://nodejs.org/en/download/current/ 
 
-npm init -y
+                npm init -y
 
-Step-3: Install TypeScript following instructions given in link: https://www.npmjs.com/package/typescript
+✔ Step-3: Install TypeScript following instructions given in link: https://www.npmjs.com/package/typescript
 
-We can also install by writing following commands in command prompt
+   We can also install by writing following commands in command prompt
 
-npm install -g typescript
+                 npm install -g typescript
 
-tsc -init
+                 tsc -init
 
-Step 4: Create a new Next.JS app using following command in VS Code Terminal or Command Prompt
+✔  Step 4: Create a new Next.JS app using following command in VS Code Terminal or Command Prompt
 
-https://nextjs.org/docs/getting-started/installation
+    https://nextjs.org/docs/getting-started/installation
 
 
 
