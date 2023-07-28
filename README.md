@@ -51,12 +51,9 @@ Wait a bit for the installation process to complete. When you get a Success! mes
 
 	npm run dev
  
-  👉 When build will complete successfully then Run the project over browser using http://localhost:3000/studio
-    
-    It will ask you to add the URL as a CORS origin. Click on Continue to open the Sanity management dashboard. From there, you need to 
-    add the CORS origin.
-
-    The server will automatically rebuild the studio and refresh the browser on saving code after modification.
+  👉 When build will complete successfully then Run the project over browser using http://localhost:3000/studio It will ask you to add 
+     the URL as a CORS origin. Click on Continue to open the Sanity management dashboard. From there, you need to add the CORS origin. 
+     The server will automatically rebuild the studio and refresh the browser on saving code after modification.
     
  # To Learn about sanity more 
 
