@@ -34,6 +34,8 @@ Before going to Create a Website in Next JS using Headless CMS Sanity and Drizzl
 	npm create sanity@latest -- --template clean --create-project "Sanity Project" --dataset production
 
 
+You can rename Sanity Project in above comman with your project name.
+
 During Installation Setup Process these Steps will be followed:
 
 Create an account. Select a login provider from the list of options, and confirm with Enter. After creating an account in the browser, come back to the command line window.
@@ -49,7 +51,7 @@ Wait a bit for the installation process to complete. When you get a Success! mes
 
 ✔  **Step 6**: Run the Studio Locally by starting the NextJs project.
 
-	npm run dev
+		npm run dev
  
   👉 When build will complete successfully then Run the project over browser using http://localhost:3000/studio It will ask you to add 
      the URL as a CORS origin. Click on Continue to open the Sanity management dashboard. From there, you need to add the CORS origin. 
