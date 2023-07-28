@@ -8,7 +8,7 @@ https://www.sanity.io
 Sanity is a headless Content Management System (CMS), It is a composable content cloud. Sanity is the most flexible, entirely composable solution for content — and meet our modern architecture ambitions.
 
 
-To Create a Website in Next JS using Headless CMS Sanity, TailwindCSS, TypeScript and Drizzle Postgre SQl we must have our environment setup ready. If we are going to create Next Js application first time then we must follow these steps:
+Before going to Create a Website in Next JS using Headless CMS Sanity and Drizzle Postgre SQl we must have our environment setup ready. If we are going to create Next Js application # first time then we must follow these steps:
 
 ✔ Step-1: Install Integrated Development Environment (IDE) Visual Studio Code (VS Code) using link:  https://code.visualstudio.com/
 
