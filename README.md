@@ -32,23 +32,41 @@ Before going to Create a Website in Next JS using Headless CMS Sanity and Drizzl
 
 ✔  **Step 5**: **Install Sanity Studio** write/paste this command in cmd/terminal
 
-				npm create sanity@latest -- --template clean --create-project "Sanity Project" --dataset production
-
-	
-								
-
-                 
+	npm create sanity@latest -- --template clean --create-project "Sanity Project" --dataset production
 
 
+✔  **Step 6**: **Install Sanity Studio** write/paste this command in cmd/terminal
+
+	npm create sanity@latest -- --template clean --create-project "Sanity Project" --dataset production
+
+During Installation Setup Process these Steps will be followed:
+
+Create an account. Select a login provider from the list of options, and confirm with Enter. After creating an account in the browser, come back to the command line window.
+It will ask you the following questions.
+Would you like to add configuration files for a Sanity project in this Next.js folder? Yes
+Would you like an embedded Sanity Studio? Yes
+Would you like to use the Next.js app directory for routes? Yes
+What route do you want to use for the Studio? /studio
+Select project template to use Clean project with no predefined schemas
+Would you like to add the project ID and dataset to your .env file? Yes
+Wait a bit for the installation process to complete. When you get a Success! message, you're good to move on to the next step.
 
 
+✔  **Step 6**: Run the Studio Locally by starting the NextJs project.
 
+	npm run dev
 
+    When build will complete successfully then Run the project over browser using http://localhost:3000/studio
+    
+    It will ask you to add the URL as a CORS origin. Click on Continue to open the Sanity management dashboard. From there, you need to 
+    add the CORS origin.
 
-To Sudy and learn about sanity
+    The server will automatically rebuild the studio and refresh the browser on saving code after modification.
+    
+ # To Learn about sanity more 
 
-https://www.sanity.io/docs/overview-introduction
+	https://www.sanity.io/docs/overview-introduction
 
-https://www.sanity.io/docs/create-a-schema-and-configure-sanity-studio
+	https://www.sanity.io/docs/create-a-schema-and-configure-sanity-studio
 
-https://github.com/sanity-io/next-sanity
+	https://github.com/sanity-io/next-sanity
