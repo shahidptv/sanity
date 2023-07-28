@@ -3,20 +3,20 @@ Create a Website in Next JS using Headless CMS Sanity, TailwindCSS, TypeScript a
 
 # What is Sanity?
 
-https://www.sanity.io
+           		https://www.sanity.io
 
 Sanity is a headless Content Management System (CMS), It is a composable content cloud. Sanity is the most flexible, entirely composable solution for content — and meet our modern architecture ambitions.
 
 
 Before going to Create a Website in Next JS using Headless CMS Sanity and Drizzle Postgre SQl we must have our environment setup ready. If we are going to create Next Js application # first time then we must follow these steps:
 
-✔ Step-1: Install Integrated Development Environment (IDE) Visual Studio Code (VS Code) using link:  https://code.visualstudio.com/
+✔ **Step-1**: Install Integrated Development Environment (IDE) Visual Studio Code (VS Code) using link:  https://code.visualstudio.com/
 
-✔ Step-2: Install Node.js (Latest Version) from https://nodejs.org/en/download/current/ 
+✔ **Step-2**: Install Node.js (Latest Version) from https://nodejs.org/en/download/current/ 
 
                 npm init -y
 
-✔ Step-3: Install TypeScript following instructions given in link: https://www.npmjs.com/package/typescript
+✔ **Step-3**: Install TypeScript following instructions given in link: https://www.npmjs.com/package/typescript
 
    We can also install by writing following commands in command prompt
 
@@ -24,9 +24,20 @@ Before going to Create a Website in Next JS using Headless CMS Sanity and Drizzl
 
                  tsc -init
 
-✔  Step 4: Create a new Next.JS app using following command in VS Code Terminal or Command Prompt
+✔  **Step 4**: Create a new Next.JS app using following command in VS Code Terminal or Command Prompt
 
-    https://nextjs.org/docs/getting-started/installation
+									npx create-next-app
+
+	   For more information follow this link: https://nextjs.org/docs/getting-started/installation
+
+✔  **Step 5**: **Install Sanity Studio** write/paste this command in cmd/terminal
+
+				npm create sanity@latest -- --template clean --create-project "Sanity Project" --dataset production
+
+	
+								
+
+                 
 
 
 
