@@ -24,11 +24,10 @@ Before going to Create a Website in Next JS using Headless CMS Sanity and Drizzl
 
                  tsc -init
 
-✔  **Step 4**: Create a new Next.JS app using following command in VS Code Terminal or Command Prompt
+✔  **Step 4**: Create a new Next.JS app using following command in VS Code Terminal or Command Prompt (https://nextjs.org/docs/getting-started/installation)
 
-									npx create-next-app
-
-	   For more information follow this link: https://nextjs.org/docs/getting-started/installation
+		npx create-next-app
+ 
 
 ✔  **Step 5**: **Install Sanity Studio** write/paste this command in cmd/terminal
 
