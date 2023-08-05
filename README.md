@@ -1,4 +1,4 @@
-# sanity
+# Next.js Application Using Sanity and Postgre SQL
 Create a Website in Next JS using Headless CMS Sanity, TailwindCSS, TypeScript and Drizzle Postgre SQl
 
 Before going to Create a Website in Next JS using Headless CMS Sanity and Drizzle Postgre SQl we must have our environment setup ready. If we are going to create Next Js application # first time then we must follow these steps:
